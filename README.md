@@ -16,3 +16,5 @@ Use /coin for flip a coin
 Use /dado to throw a dice (6 faces)
 
 =================================================
+
+Based on https://github.com/OTRP/3dme
